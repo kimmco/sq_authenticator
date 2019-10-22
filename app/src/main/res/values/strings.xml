@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SQ-Authenticator</string>
+    <string name="accounts_in_database_txt">Accounts in Database</string>
+    <string name="name_hint_txt">Name</string>
+    <string name="email_hint_txt">Email</string>
+    <string name="password_hint_txt">Password</string>
+    <string name="confirm_password_hint_txt">Confirm Password</string>
+    <string name="login_txt">Login</string>
+    <string name="register_txt">Register</string>
+    <string name="name_err_msg">Enter Full Name</string>
+    <string name="email_err_msg">Enter Valid Email</string>
+    <string name="password_err_msg">Enter Password</string>
+    <string name="registration_successful_msg">Registration Successful</string>
+    <string name="not_registered_txt">Not Registered yet? Register here</string>
+    <string name="registered_text_msg">Already Registered? Login</string>
+    <string name="email_exists_err_msg">Email Already Exists</string>
+    <string name="password_match_err_msg">Password Does Not Matches</string>
+    <string name="invalid_email_password_err_msg">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="users_list">Your Email:</string>
+    <string name="users_list_header">SQ-Authenticator</string>
+</resources>
